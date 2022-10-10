@@ -17,3 +17,9 @@ It is not as nice to be under a smaller header
 ```JavaScript
 console.log('woooooooooooooooot'); // Comments are fun
 ```
+
+### Here's a task list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
